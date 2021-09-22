@@ -1,0 +1,15 @@
+{
+	"name": "tailwind-practice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"princeDev": "tailwindcss css/styles.css -o public/styles.css"
+	},
+	"keywords": [],
+	"author": "Prince NP",
+	"license": "ISC",
+	"dependencies": {
+		"tailwindcss": "^2.2.15"
+	}
+}
